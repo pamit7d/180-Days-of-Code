@@ -1,2 +1,6 @@
 venv/
 .ipynb_checkpoints/
+
+# Day4 Titanic Dataset
+Day4/titanic_data/
+Day4/titanic.zip
